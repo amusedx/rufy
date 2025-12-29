@@ -4,4 +4,4 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-does_not_exist_yet = "0.1.0"
+does_not_exist_yetx = "0.1.0"
